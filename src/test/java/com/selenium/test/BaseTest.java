@@ -16,6 +16,7 @@ public class BaseTest {
     public void setupDriver(){
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\carlo\\Desktop\\Selenium Jar and Drivers\\chromedriver.exe");
         System.setProperty("webdriver.gecko.driver", "C:\\Users\\carlo\\Desktop\\Selenium Jar and Drivers\\geckodriver.exe");
+        System.setProperty(FirefoxDriver.SystemProperty.BROWSER_LOGFILE,"null");
         System.setProperty("webdriver.edge.driver", "C:\\Users\\carlo\\Desktop\\Selenium Jar and Drivers\\msedgedriver.exe");
         this.driver = new FirefoxDriver();
     }

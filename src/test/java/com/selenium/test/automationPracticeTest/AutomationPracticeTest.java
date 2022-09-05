@@ -45,8 +45,6 @@ public class AutomationPracticeTest extends BaseTest {
         automationPracticePage.getOpenTabButton().openNewTab();
         automationPracticePage.getOpenTabButton().returnParentTab();
         automationPracticePage.getOpenTabButton().numberOfTabs();
-
-
     }
 
     @DataProvider

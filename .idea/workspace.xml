@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 5, steps: M,N and O">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/ButtonsToTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/ButtonsToTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" afterDir="false" />
+    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="development" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -40,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.selenium.test" />
