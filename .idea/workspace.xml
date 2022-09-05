@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/common/AbstractComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" afterDir="false" />
+    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 1, steps: A,B and C">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/SuggestionClassInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662318986553</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementing exercise 1, steps: A,B and C">
+      <created>1662332874701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662332874701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +119,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Implementing exercise 1, steps: A,B and C" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 1, steps: A,B and C" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/SuggestionClassInput.java</url>
+          <line>35</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/SuggestionClassInput.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

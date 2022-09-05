@@ -6,10 +6,12 @@ import org.openqa.selenium.support.PageFactory;
 public class AutomationPracticePage {
     private WebDriver driver;
     private RadioButton radioButton;
+    private SuggestionClassInput suggestionClassInput;
 
     public AutomationPracticePage(final WebDriver driver){
         this.driver = driver;
         this.radioButton = PageFactory.initElements(driver, RadioButton.class);
+        this.suggestionClassInput = PageFactory.initElements(driver, SuggestionClassInput.class);
     }
 
     public void goTo(){
@@ -18,5 +20,9 @@ public class AutomationPracticePage {
 
     public RadioButton getRadioButton() {
         return radioButton;
+    }
+
+    public SuggestionClassInput getSuggestionClassInput() {
+        return suggestionClassInput;
     }
 }

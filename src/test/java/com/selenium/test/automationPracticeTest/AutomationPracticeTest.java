@@ -20,12 +20,21 @@ public class AutomationPracticeTest extends BaseTest {
     @Test(dataProvider = "getData")
     public void AutomationPracticeWorkflow(int randomResult){
 
-        // Exercise 1
-        System.out.println("********** Results exercise 1 **********");
+        System.out.println("\n ********** Results exercise 1 **********");
         automationPracticePage.goTo();
         Assert.assertTrue(automationPracticePage.getRadioButton().isDisplayed());
         automationPracticePage.getRadioButton().clickRadioByRandomResult(randomResult);
         automationPracticePage.getRadioButton().getRadioButtonsText(randomResult);
+
+        System.out.println("\n ********** Results exercise 2 **********");
+        Assert.assertTrue(automationPracticePage.getSuggestionClassInput().isDisplayed());
+        automationPracticePage.getSuggestionClassInput().obtainInputPlaceholder();
+        automationPracticePage.getSuggestionClassInput().sendSuggestion();
+        automationPracticePage.getSuggestionClassInput().clickSuggestion();
+        automationPracticePage.getSuggestionClassInput().printExpectedResult();
+
+        System.out.println("\n ********** Results exercise 3 **********");
+
 
     }
 
