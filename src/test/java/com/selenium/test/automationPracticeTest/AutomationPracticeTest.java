@@ -37,6 +37,17 @@ public class AutomationPracticeTest extends BaseTest {
         automationPracticePage.getDropdownMenu().selectElement();
         automationPracticePage.getDropdownMenu().selectElementUsingWebElement();
 
+//        System.out.println("\n ********** Results exercise 4 **********");
+//        automationPracticePage.getButtonsToTest().setButtonsToTestClick();
+//        automationPracticePage.returnTo();
+
+        System.out.println("\n ********** Results exercise 5 **********");
+        Assert.assertTrue(automationPracticePage.getOpenTabButton().isDisplayed());
+        automationPracticePage.getOpenTabButton().openNewTab();
+        automationPracticePage.getOpenTabButton().returnParentTab();
+        automationPracticePage.getOpenTabButton().numberOfTabs();
+
+
     }
 
     @DataProvider

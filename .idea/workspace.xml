@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 2, steps: D,E and F">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/DropdownMenu.java" afterDir="false" />
+    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 3, steps: G,H,I, and J">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/ButtonsToTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/OpenTabButton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" afterDir="false" />
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662338943668</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implementing exercise 3, steps: G,H,I, and J">
+      <created>1662342960019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662342960019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,7 +136,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Implementing exercise 1, steps: A,B and C" />
     <MESSAGE value="Implementing exercise 2, steps: D,E and F" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 2, steps: D,E and F" />
+    <MESSAGE value="Implementing exercise 3, steps: G,H,I, and J" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 3, steps: G,H,I, and J" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
