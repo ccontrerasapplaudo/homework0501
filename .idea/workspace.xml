@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 1, steps: A,B and C">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/SuggestionClassInput.java" afterDir="false" />
+    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 2, steps: D,E and F">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/DropdownMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" afterDir="false" />
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662332874701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implementing exercise 2, steps: D,E and F">
+      <created>1662338943668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662338943668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Implementing exercise 1, steps: A,B and C" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 1, steps: A,B and C" />
+    <MESSAGE value="Implementing exercise 2, steps: D,E and F" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 2, steps: D,E and F" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -130,20 +138,12 @@
           <line>19</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/SuggestionClassInput.java</url>
-          <line>35</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/SuggestionClassInput.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework0501$AutomationPracticeTest.ic" NAME="AutomationPracticeTest Coverage Results" MODIFIED="1662340226330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.selenium.test.automationPracticeTest.*</FILTER>
+    </SUITE>
   </component>
 </project>

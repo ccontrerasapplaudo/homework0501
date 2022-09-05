@@ -34,7 +34,8 @@ public class AutomationPracticeTest extends BaseTest {
         automationPracticePage.getSuggestionClassInput().printExpectedResult();
 
         System.out.println("\n ********** Results exercise 3 **********");
-
+        automationPracticePage.getDropdownMenu().selectElement();
+        automationPracticePage.getDropdownMenu().selectElementUsingWebElement();
 
     }
 
