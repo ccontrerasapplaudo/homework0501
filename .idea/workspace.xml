@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 3, steps: G,H,I, and J">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/ButtonsToTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/OpenTabButton.java" afterDir="false" />
+    <list default="true" id="9b8b9498-3d5b-43ce-9697-e6d9a53de972" name="Changes" comment="Implementing exercise 5, steps: M,N and O">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/AutomationPracticePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/ButtonsToTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/test/automationPracticePage/ButtonsToTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/automationPracticeTest/AutomationPracticeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662342960019</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementing exercise 5, steps: M,N and O">
+      <created>1662351403796</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662351403796</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,7 +143,8 @@
     <MESSAGE value="Implementing exercise 1, steps: A,B and C" />
     <MESSAGE value="Implementing exercise 2, steps: D,E and F" />
     <MESSAGE value="Implementing exercise 3, steps: G,H,I, and J" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 3, steps: G,H,I, and J" />
+    <MESSAGE value="Implementing exercise 5, steps: M,N and O" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing exercise 5, steps: M,N and O" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

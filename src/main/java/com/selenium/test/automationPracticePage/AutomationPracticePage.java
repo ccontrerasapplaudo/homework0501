@@ -24,10 +24,6 @@ public class AutomationPracticePage {
         this.driver.get("https://rahulshettyacademy.com/AutomationPractice/");
     }
 
-    public void returnTo(){
-        this.driver.navigate().back();
-    }
-
     public RadioButton getRadioButton() {
         return radioButton;
     }
